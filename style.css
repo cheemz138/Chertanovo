@@ -1,0 +1,103 @@
+.firstPage {
+    display: flex;
+    width: 642px;
+height: 615px;
+left: 0px;
+top: 0px;
+}
+
+.mujik {
+    position: absolute;
+width: 160px;
+height: 160px;
+left: 240px;
+top: 245px;
+}
+
+.communismWin{
+    position: absolute;
+width: 615px;
+height: 144px;
+left: 25px;
+top: -15px;
+
+font-family: VW Text;
+font-style: normal;
+font-weight: normal;
+font-size: 51px;
+line-height: 50px;
+/* or 98% */
+
+
+color: #343434;
+}
+
+.menu {
+    position: absolute;
+width: 135px;
+height: 94px;
+left: 25px;
+top: 505px;
+
+font-family: TT Interfaces;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+/* or 139% */
+
+
+color: #343434;
+}
+
+.maket {
+    position: absolute;
+width: 590px;
+height: 590px;
+right: 25px;
+top: 25px;
+}
+
+.mainArchitect {
+    position: absolute;
+width: 140px;
+height: 26px;
+left: 240px;
+top: 405px;
+
+font-family: TT Interfaces;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 15px;
+/* or 150% */
+
+
+color: #343434;
+}
+
+.maketDescription {
+    position: absolute;
+width: 150px;
+height: 26px;
+right: 638px;
+top: 580px;
+
+font-family: TT Interfaces;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 15px;
+/* or 150% */
+
+
+color: #343434;
+}
+
+.button1 {
+    width: 100%;
+height: auto;
+left: 0px;
+top: 0px;
+padding-top: 20px;
+}
